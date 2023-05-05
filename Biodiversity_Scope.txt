@@ -1,0 +1,24 @@
+Biodiversity Analysis
+
+Step 0: Understand the Problem
+- More closely understand which species have higher chances of becoming endangered.
+- We need to understand this so we can then find ways to help a specific species moving forward.
+
+Step 1: Define the Goal(s)
+- Find patterns in endangered species that can help pervent other species from becoming endangered as well.
+
+Step 2: What actions/interventions are you informing?
+- Depending on the patterns found within the analysis, necessary action can be taken to aid in the prevention of other species becoming endangered.
+- These actions could be addressed to the general population, corporations, or anyone directly related to the findings of the analysis.
+
+Step 3: What data do you have and what data do you need?
+- We have two datasets.
+- One dataset contains information pertaining to different species (scientific_name, category, conservation_status, etc.).
+- The other dataset contains information about different parks, which species live in these parks, and how many times these species have been spotted in the last 7 days. 
+
+Step 4: What analysis needs to be done?
+- Many types of analysis will need to be done to find what we are looking for.
+- We need detection to find all the currently endangered species.
+- We can then use descriptive techniques to uncover patterns amongst the endangered species.
+- We can also analyze non-endangered species to see if they possess any of the same patterns that the endangered species possess.
+- Finally, we can predict if a non-endangered species may possibly become endangered in the future based off of our current findings.
