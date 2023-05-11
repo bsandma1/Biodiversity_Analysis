@@ -1,5 +1,8 @@
 Biodiversity Analysis
 
+***Typically, my scope will have more questions specifically about the data and then throughout the analysis, I'll seek to answer those questions.***  
+***In this scope, I used a different template that was more open ended, though I do prefer the more specific question based analysis.***
+
 Step 0: Understand the Problem
 - More closely understand which species have higher chances of becoming endangered.
 - We need to understand this so we can then find ways to help a specific species moving forward.
