@@ -25,3 +25,13 @@ Step 4: What analysis needs to be done?
 - We can then use descriptive techniques to uncover patterns amongst the endangered species.
 - We can also analyze non-endangered species to see if they possess any of the same patterns that the endangered species possess.
 - Finally, we can predict if a non-endangered species may possibly become endangered in the future based off of our current findings.
+
+Questions used to navigate the analysis:
+1. How many observations of ‘Not at Risk’ species are there in each park?
+2. What is the total number of observations in each park? 
+3. What percent do the observations of each conservation status make up within each park?
+4. Do ‘Endangered’ species have less observations on average?
+5. What can we learn about categories by looking into the number of species in each conservation status?
+6. What happens when we exclude the ‘Not At Risk’ species while analyzing categories and conservation statuses?
+7. What percent do the observations of each category make up within each park? 
+8. What is the most endangered category of species and is this finding statistically significant? 
